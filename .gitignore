@@ -1,0 +1,9 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignote Jupyter Notebook backups
+.ipynb_checkpoints/
+
+# Ignore the virtual environment
+.vnev/
+vnev/
